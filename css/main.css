@@ -2,7 +2,7 @@
   background: #044279;
   color: white;
   border: none;
-  padding: 6px 10px;
+  padding: 6px 8px;
   border-right: 5px solid #ed4d14;
   margin-bottom: 10px;
   position: relative;
@@ -15,7 +15,7 @@
   height: 1px;
   background: #ed4d14;
   bottom: 0px;
-  right: 84px;
+  right: 80px;
 }
 
 .advertisement, .advertisement-2 {
@@ -617,6 +617,9 @@ footer .footer__bottom-about-us {
     margin-right: 0;
     color: red;
     background: white;
+  }
+  .advertisement .advertisement-img i, .advertisement-2 .advertisement-img i {
+    right: 107px;
   }
   .swiper-container-main .swiper-pagination:after,
   .swiper-container-main .swiper-pagination:before {
