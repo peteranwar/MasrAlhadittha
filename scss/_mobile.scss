@@ -209,7 +209,7 @@
   .btn-custom:after,
   .news__slide-3 .btn-custom:after,
   #sidebar .btn-custom:after {
-    width: 12.7rem;
+    width: 13.5rem;
   }
 
   #section-two {
@@ -220,6 +220,14 @@
     p {
       font-size: 11px;
     }
+  }
+  #sidebar .sidebar__snippets-img img {
+    width: 100px;
+    height: 80px;
+    margin-left: 13px;
+  }
+  #sidebar .sidebar__snippets-text p {
+    font-size: 11px;
   }
 
   // -------------------  advertisement-2   ---------------
